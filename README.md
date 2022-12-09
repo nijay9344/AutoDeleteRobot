@@ -33,7 +33,7 @@
 
 # Deploy To Heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/TechnoMindz/AutoDeleteRobot">
+<a href="https://github.com/Nijaygaming/AutoDeleteRobot
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
 
